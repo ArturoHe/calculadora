@@ -1,4 +1,4 @@
-joherrerar - Jose Arturo Herrera Rivera
+joherrerar - Jose Arturo Herrera Rivera <-> Calculadora Tkinter
 
 
 ![1](/images/1.png)
